@@ -25,6 +25,6 @@ sqlparse==0.4.1
 static3==0.7.0
 uritemplate==3.0.1
 urllib3==1.26.3
-#psycopg2==2.8.6
+psycopg2==2.8.6
 django-extensions==3.1.1
 django-test-without-migrations==0.6
